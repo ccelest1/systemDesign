@@ -1,5 +1,6 @@
 # Sys Design Interviews - Step by Step
-- __TO BE SUCCESSFUL__: preparation + being organized using thses steps in order to be on track + cover various system aspects
+- __TO BE SUCCESSFUL__: preparation + commit to organization via these steps in order to be on track + cover various system aspects
+
 ## 1. Requirements Clarification
 - __MUST__: Ask questions about exact scope of problem being solved
     * design questions are open-ended and don't have one exact correct answer -> clarifying ambiguities is critical
